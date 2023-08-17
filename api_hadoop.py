@@ -19,7 +19,7 @@ os.remove(local_path)
 
 #xml
 def url_builder(city_id, city_name, country):
-    user_api = '58d1efb0943d1d89316df09425339d11'
+    user_api = 'key'
     unit = 'metric'
     if city_name:
         api = 'http://api.openweathermap.org/data/2.5/weather?q='
