@@ -3,8 +3,7 @@
 
 lancer hadoop:https://github.com/ThomasMerci/docker-hadoop
 
-vérifier minutieusement les ports si changement
-
+revoir le changement de port
 
 # lancer api_docker_hadoop
 
