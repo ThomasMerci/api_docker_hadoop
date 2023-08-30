@@ -8,10 +8,10 @@ vérifier minutieusement les ports si changement
 
 # lancer api_docker_hadoop
 
-docker build -t nom_app .
+docker build -t app .
 
 
 (docker network ls)
 
-docker run --network=réseau_hadoop nom_app
+docker run --network=réseau_hadoop app
 
